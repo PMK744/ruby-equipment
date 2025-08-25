@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ruby Equipment",
+    "description": "Add ruby tools and armor to your server!",
+    "uuid": "a49593dc-6420-4822-bc85-b4bb738d666e",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "Add ruby tools and armor to your server!",
+      "type": "resources",
+      "uuid": "31a9f160-9b3c-4263-8622-a0ca5b7aaab1",
+      "version": [1, 0, 0]
+    }
+  ]
+}

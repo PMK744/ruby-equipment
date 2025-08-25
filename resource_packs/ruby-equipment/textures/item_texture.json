@@ -1,0 +1,36 @@
+{
+  "resource_pack_name": "Miners Mayhem | Resources",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "ruby": {
+      "textures": "textures/items/ruby"
+    },
+    "ruby_pickaxe": {
+      "textures": "textures/items/ruby_pickaxe"
+    },
+    "ruby_axe": {
+      "textures": "textures/items/ruby_axe"
+    },
+    "ruby_sword": {
+      "textures": "textures/items/ruby_sword"
+    },
+    "ruby_shovel": {
+      "textures": "textures/items/ruby_shovel"
+    },
+    "ruby_hoe": {
+      "textures": "textures/items/ruby_hoe"
+    },
+    "ruby_helmet": {
+      "textures": "textures/items/ruby_helmet"
+    },
+    "ruby_chestplate": {
+      "textures": "textures/items/ruby_chestplate"
+    },
+    "ruby_leggings": {
+      "textures": "textures/items/ruby_leggings"
+    },
+    "ruby_boots": {
+      "textures": "textures/items/ruby_boots"
+    }
+  }
+}
